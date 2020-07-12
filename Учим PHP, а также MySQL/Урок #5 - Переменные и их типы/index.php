@@ -39,6 +39,4 @@
    echo "boolean = $bool"; // 1
    echo "booleanFalse = $boolFalse"; // пустая строка
 
-
-
 ?>
